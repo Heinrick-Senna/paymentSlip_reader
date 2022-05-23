@@ -1,0 +1,27 @@
+{
+  "name": "paymentslip_reader",
+  "version": "1.0.0",
+  "description": "Repo for technical test of an interview.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heinrick-Senna/paymentSlip_reader.git"
+  },
+  "keywords": [],
+  "author": "Marcelo Heinrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heinrick-Senna/paymentSlip_reader/issues"
+  },
+  "homepage": "https://github.com/Heinrick-Senna/paymentSlip_reader#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "supertest": "^6.2.3"
+  }
+}
