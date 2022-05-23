@@ -17,7 +17,7 @@ curl --request GET \
 ```
 
 Validandoa a linha digitável e suas informações sobre a linha digitável, em suas respectivas ordens (se existirem):
-`<br>`
+<br>
 
 <ol>
   <li><strong>barCode:</strong> (código de barras do boleto)</li>
