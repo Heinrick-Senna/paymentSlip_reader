@@ -9,7 +9,7 @@ Para rodar os testes unitários utilize o comando **jest**.
 <h2> 🔭 Objetivo da API </h2>
 
 Responder ao endpoint
-`<br>`
+<br>
 
 ```
 curl --request GET \
