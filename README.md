@@ -16,7 +16,7 @@ curl --request GET \
   --url http://localhost:8080/boleto/:linha_digitável
 ```
 
-Com as informações sobre a linha digitável, em suas respectivas ordens (se existirem):
+Validandoa a linha digitável e suas informações sobre a linha digitável, em suas respectivas ordens (se existirem):
 `<br>`
 
 <ol>
